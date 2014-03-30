@@ -35,12 +35,16 @@ Any remaining funds will go to the distribution of this video or videos e.g. peo
 
 Release of funds
 
-1. The release of funds will be trough peercommit.com either direct to the receiver using the peer4commit mechanism.
+1. The release of funds will be trough peercommit.com either
+
+A. direct to the receiver using the peer4commit mechanism. This is clearly trackable and no additional tracking would be required 
+
+B. manually draining the fund
+
 Given the current restraints on peer4commit of releasing the total fund or large chunks of it, the project maintainer may have to manually drain the fund before transferring it as one payment to the receiver. That action might also include exchanging Peercoins into fiat if that's the only method of payment accepted.
+Both the project maintainer and the reciever will be transparent in the cost and transaction by publishing the transaction(s) on peercointalk.org including invoices and confirmation of reception of the funds. 
 
-2. This fundraiser doesn't intend to be a long-term marketing fund. For other targets it is suggested to start a new fundraiser with another charter. Therefore the project maintainer will release the funds if the targets or stretch targets are not met withing 3 months time. Where these funds will be released to will be subject to a voting process on peercointalk.org.
-
-
+2. This fundraiser doesn't intend to be a long-term marketing fund. For other targets it is suggested to start a new fundraiser with another charter. Therefore the project maintainer will release the funds if the targets or stretch targets are not met withing 3 months time. Where these funds will be released to, will be subject to a voting process on peercointalk.org but must benefit the peercoin network in some way.
 
 
 
