@@ -1,0 +1,11 @@
+This file is created to allow commits against and provide some transparancy to and why funds are paid.
+
+Commit will only be allowed when objectives of the charter in the read.me are met
+For each commit which drains funds an entry will be made in this file in the following format
+Commits without payments (#free) are not added. This can be spam or just maintaining the project files by project maintainer
+
+Name receiver: amount received: reason
+eg:
+Videocreator:500 PPC: Delivered 30 second video according to charter and community requirements
+
+-------------------------------------------------------------------------------------------------------------------------
