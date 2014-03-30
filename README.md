@@ -33,9 +33,19 @@ OR
 
 Any remaining funds will go to the distribution of this video or videos e.g. people in and outside the community hosting, sharing or promoting the material in some way. Each effort can be rewarded between 0.1% and 5% of the remaining funds. Candidates who think they are eligible for this reward have to obtain the positive vote of at least 5 active volunpeers and showcasing their effort. If there are more requests than funds in a short term a voting thread will be run for at least 7 days to select the people who will recieve a reward and how much.
 
-This fundraiser doesn't intend to be a long-term marketing fund. For other targets it is suggested to start a new fundraiser with another charter. Therefore the project maintainer will release the funds if the targets or stretch targets are not met withing 3 months time. Where these funds will be released to will be subject to a voting process on peercointalk.org.
+Release of funds
+
+1. The release of funds will be trough peercommit.com either direct to the receiver using the peer4commit mechanism.
+Given the current restraints on peer4commit of releasing the total fund or large chunks of it, the project maintainer may have to manually drain the fund before transferring it as one payment to the receiver. That action might also include exchanging Peercoins into fiat if that's the only method of payment accepted.
+
+2. This fundraiser doesn't intend to be a long-term marketing fund. For other targets it is suggested to start a new fundraiser with another charter. Therefore the project maintainer will release the funds if the targets or stretch targets are not met withing 3 months time. Where these funds will be released to will be subject to a voting process on peercointalk.org.
+
+
+
+
 
 Any questions can be posted on peercointalk.org or raised as an issue on the repo on Github.
 
 The project maintainer will try to respond questions within 48 hours or indicate that an anwers is underway but might take a bit more time. Any spam will be ignored and deleted.
+
 
