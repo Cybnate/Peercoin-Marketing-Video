@@ -6,7 +6,7 @@ Project primarily created to raise funds to create a video promoting Peercoin th
 
 Charter for Fundraising for Peercoin video - 900 PPC for at least 30 seconds
 
-Fundraising to promote Peercoin brand and educate users about the use of Peercoins through freely r- distributable videos, audio and written media. The fund is primarily used to pay professionals and any materials or services they need to achieve the stated objective.
+Fundraising to promote Peercoin brand and educate users about the use of Peercoins through freely re-distributable videos, audio and written media. The fund is primarily used to pay professionals and any materials or services they need to achieve the stated objective.
 
 The objective is to have a video meeting at least the following requirements:
 
