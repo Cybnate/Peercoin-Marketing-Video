@@ -1,13 +1,28 @@
-This file is created to allow commits against it and provide some transparancy to who and why funds are paid.
+PEERCOIN-MARKETING-VIDEO-LEDGER
 
+This file is created to allow commits against it and provide some transparancy to who and why funds are paid.
 Commits will only be pulled when objectives of the charter in the read.me are met.
-For each commit which drains funds an entry will be made in this file in the following format
+
 Commits without payments (#free) are not added. This can be spam or just maintaining the project files by 
 project maintainer. Other relevant transactions (e.g. exchange to fiat if required) will also be added in here 
-as a kind of ledger.
+as a kind of ledger. Movement of the funds can also be followed through the blockchain, but this can sometimes 
+be difficult to follow for the non-initiated. This ledger is just a service to the community for this fund.
 
+Please report any anomalies to the project maintainer(s) or post in peercointalk.org to share the issue or concern.
+
+For each commit which drains funds an entry will be made in this file in the following format
 Name receiver: amount received: reason
 eg:
 Videocreator:500 PPC (50% of fund): Delivered 30 second video according to charter and community requirements
 
 -------------------------------------------------------------------------------------------------------------------------
+<entry 1>
+<entry 2>
+<entry 3>
+<entry 4>
+<entry 5>
+<entry 6>
+<entry 7>
+<entry 8>
+<entry 9>
+<entry 10>
