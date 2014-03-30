@@ -24,7 +24,7 @@ The objective is to have a video meeting at least the following requirements:
 
 
 Stretch target(s) for any fundraising above 900 PPC (~US$1800) or funds remaining after the initial requirements above are met:
-1. Having a longer video up to 180 seconds (3 minutes), which can be split up in pieces between 30-90 seconds and can be broadcasted as specific or focussed messages
+1. Having a longer video up to 180 seconds (3 minutes), which can be logically split up in pieces of between 30-90 seconds and can be broadcasted as specific messages on their own.
 
 OR
 
