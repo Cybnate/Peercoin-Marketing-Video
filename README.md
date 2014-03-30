@@ -4,7 +4,7 @@ Peercoin-Marketing
 Project primarily created to raise funds to create a video promoting Peercoin through peer4commit
 
 
-Charter for Fundraising for Peercoin video - 900 PPC for 30 seconds
+Charter for Fundraising for Peercoin video - 900 PPC
 
 Fundraising to promote Peercoin brand and educate users about the use of Peercoins through freely r- distributable videos, audio and written media. The fund is primarily used to pay professionals and any materials or services they need to achieve the stated objective.
 
@@ -20,7 +20,7 @@ The objective is to have a video meeting at least the following requirements:
 
 5. Limit music to a minimum. Nothing worse than loud (or unnecessary) music in the background making it difficult to hear what the speaker or narrator is saying.
 
-6. Duration:30 seconds
+6. Duration: at least 30 seconds
 
 
 Stretch target(s) for any fundraising above 900 PPC (~US$1800) or funds remaining after the initial requirements above are met:
