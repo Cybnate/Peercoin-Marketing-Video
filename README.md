@@ -9,15 +9,23 @@ Charter for Fundraising for Peercoin video - 900 PPC for 30 seconds
 Fundraising to promote Peercoin brand and educate users about the use of Peercoins through freely r- distributable videos, audio and written media. The fund is primarily used to pay professionals and any materials or services they need to achieve the stated objective.
 
 The objective is to have a video meeting the following requirements:
+
 1. Needs to be re-broadcastable on TV so to keep costs down, use whatever is creative commons for audio.
+
 2. Some people with English as their 2nd language will be watching this, so let's not talk too quickly or fill the background with too much music or sound.
+
 3. Limit music to a minimum. Nothing worse than loud (or unnecessary) music in the background making it difficult to hear what the speaker or narrator is saying.
+
 4. Duration:90 seconds
 
+
 Stretch target(s) for any fundraising above 900 PPC (~US$1800) or funds remaining after the initial requirements above are met:
-1. Having a longer video up to 180 seconds (3 minutes), which can be split up in pieces between 30-90 seconds and can be broadcasted as specific or focussed messages.
+1. Having a longer video up to 180 seconds (3 minutes), which can be split up in pieces between 30-90 seconds and can be broadcasted as specific or focussed messages
+
 OR
+
 2. Having another video produced of up to 90 seconds after the initial requirements have been met
+
 
 Any remaining funds will go to the distribution of this video or videos e.g. people in and outside the community hosting, sharing or promoting the material in some way. Each effort can be rewarded between 0.1% and 5% of the remaining funds. Candidates who think they are eligible for this reward have to obtain the positive vote of at least 5 active volunpeers and showcasing their effort. If there are more requests than funds in a short term a voting thread will be run for at least 7 days to select the people who will recieve a reward and how much.
 
