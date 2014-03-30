@@ -8,15 +8,19 @@ Charter for Fundraising for Peercoin video - 900 PPC for 30 seconds
 
 Fundraising to promote Peercoin brand and educate users about the use of Peercoins through freely r- distributable videos, audio and written media. The fund is primarily used to pay professionals and any materials or services they need to achieve the stated objective.
 
-The objective is to have a video meeting the following requirements:
+The objective is to have a video meeting at least the following requirements:
 
-1. Needs to be re-broadcastable on TV so to keep costs down, use whatever is creative commons for audio.
+1. Needs to be made by a professional 
 
-2. Some people with English as their 2nd language will be watching this, so let's not talk too quickly or fill the background with too much music or sound.
+2. Need to promote Peercoin brand, the advantages, its use and/or functionality
 
-3. Limit music to a minimum. Nothing worse than loud (or unnecessary) music in the background making it difficult to hear what the speaker or narrator is saying.
+3. Needs to be re-broadcastable on TV so to keep costs down, use whatever is creative commons for audio.
 
-4. Duration:90 seconds
+4. Some people with English as their 2nd language will be watching this, so let's not talk too quickly or fill the background with too much music or sound.
+
+5. Limit music to a minimum. Nothing worse than loud (or unnecessary) music in the background making it difficult to hear what the speaker or narrator is saying.
+
+6. Duration:30 seconds
 
 
 Stretch target(s) for any fundraising above 900 PPC (~US$1800) or funds remaining after the initial requirements above are met:
